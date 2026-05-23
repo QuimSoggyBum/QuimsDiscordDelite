@@ -2012,11 +2012,11 @@ html.platform-osx .scroller-2TZvBN {
     inset-inline: 0;
     bottom: unset;
 }
-.tutorialContainer__1f388 {
+#app-mount .tutorialContainer__1f388 {
     position: relative;
     padding-top: 5px;
 }
-.childWrapperNoHoverBg__6e9f8 {
+#app-mount .childWrapperNoHoverBg__6e9f8 {
     background-color: #230149;
 }
 .childWrapper__6e9f8 {
