@@ -1,18 +1,18 @@
 /**
- * @name Frosted Glass
- * @author Gibbu
- * @version 2.2.0
- * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required.
- * @source https://github.com/DiscordStyles/FrostedGlass
- * @invite ZHthyCw
+ * @name Delite
+ * @author QuimIsFay
+ * @version 0.0.0.1
+ * @description Dark Theme Delite with pitcure.
+ * @source https://github.com/QuimSoggyBum/QuimsDiscordDelite
+ * @invite none
 */
 
-@import url('https://discordstyles.github.io/FrostedGlass/FrostedGlass.css');
+@import url('https://raw.githubusercontent.com/QuimSoggyBum/QuimsDiscordDelite/refs/heads/main/delite.css');
 
 
 
 /* Old Windows titlebar - remove this @import if you wish to use default titlebar */
-@import url("https://chloecinders.github.io/visual-refresh-compact-title-bar/desktop.css");
+/*@import url("https://chloecinders.github.io/visual-refresh-compact-title-bar/desktop.css");*/
 :root {
   /*
    * Background image variables
