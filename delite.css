@@ -2012,12 +2012,17 @@ html.platform-osx .scroller-2TZvBN {
     inset-inline: 0;
     bottom: unset;
 }
-
 .tutorialContainer__1f388 {
     position: relative;
     padding-top: 5px;
 }
-
+.childWrapperNoHoverBg__6e9f8 {
+    background-color: #230149;
+}
+.childWrapper__6e9f8 {
+    color: #f700f7;
+    transition: scale .15s ease-out, background-color .15s ease-out, color .15s ease-out;
+}
 @keyframes fadeIn {
   from {
     opacity: 0;
