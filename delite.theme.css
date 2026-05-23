@@ -11,8 +11,8 @@
 
 
 
-/* Old Windows titlebar - remove this @import if you wish to use default titlebar */
-/*@import url("https://chloecinders.github.io/visual-refresh-compact-title-bar/desktop.css");*/
+/* Old Windows titlebar - uncomment this @import if you wish to use the old titlebar */
+/*@import url("https://raw.githubusercontent.com/QuimSoggyBum/QuimsDiscordDelite/refs/heads/main/desktop.css");*/
 :root {
   /*
    * Background image variables
