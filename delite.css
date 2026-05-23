@@ -2002,6 +2002,7 @@ html.platform-osx .scroller-2TZvBN {
   box-sizing: border-box;
   z-index: 10;
 }
+/*Quim*/
 .title_c38106 {
     align-items: center;
     display: flex;
@@ -2011,6 +2012,12 @@ html.platform-osx .scroller-2TZvBN {
     inset-inline: 0;
     bottom: unset;
 }
+
+.tutorialContainer__1f388 {
+    position: relative;
+    padding-top: 5px;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
