@@ -1,5 +1,5 @@
 :root {
-  --version: "Frosted Glass 2.0.21";
+  --version: "Delite 0.0.0.1";
   --TB-top: calc(var(--server-container) + var(--window-padding));
   --TB-tr-roundness: var(--window-roundness);
   --TB-position-top: var(--TB-top, var(--window-padding));
